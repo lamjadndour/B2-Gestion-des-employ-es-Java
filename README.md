@@ -1,0 +1,2 @@
+# B2-Gestion-des-employ-es-Java
+ un programme JAVA qui résout le problème ci-dessous :  Le salaire d'un ensemble d'employés doit être calculé. Ces employés sont répartis en 3 catégories et donc en 3 classes distinctes :      EmployeFixe : recevant un salaire fixe : (salaire mensuel = salaire)      EmployeCommission : recevant un traitement de base plus un pourcentage lié à ses ventes :(salaire mensuel = salaire + ventes * commission) ;      EmployeHoraire : recevant une paie selon le nombre d'heures prestées : (salaire mensuel = taux horaire * heures prestées).
